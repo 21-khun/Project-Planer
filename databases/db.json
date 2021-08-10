@@ -1,0 +1,16 @@
+{
+    "projects": [{
+        "id": "1",
+        "title": "Project Manger",
+        "detail": "Creative Project Manger"
+    }, {
+        "id": "2",
+        "title": "Project Designer",
+        "detail": "Creative Project Designer"
+
+    }, {
+        "id": "3",
+        "title": "Project Developer",
+        "detail": "Creative Project Developer"
+    }]
+}
